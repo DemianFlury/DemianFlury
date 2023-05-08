@@ -1,16 +1,18 @@
-### Hi there 👋
+<img src="https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=6c09b9527cffba2fa92b6e2bc56df7cebd66dbbfc6212aee&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=g">
 
-<!--
-**DemianFlury/DemianFlury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My name is Demian
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [im.proveyou](https://github.com/improveU)
+- 📫 How to reach me: demianflury@gmail.com
+- 🏐 I play volleyball
+- 🎸 and the guitar
+- ⚡ Fun fact: I'm a straight white male, said to be the lowest of life forms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# My Skills include
+
+- 👏 clapping with one hand
+- ⌨️ Programming
+- 🤡 being funny sometimes (My mom said I was)
+- ⚽ Looking like Erling Håland 🤖
+- 🚜 Professional Farming Sim Player
