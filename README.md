@@ -4,7 +4,7 @@
 
 # My name is Demian
 
-- 🔭 I’m currently working on [im.proveyou](https://github.com/improveU)
+- 🔭 I’m currently working at [ramatech systems AG](https://ramatech.ch/index.php/en/)
 - 📫 How to reach me: demianflury@gmail.com
 - 🏐 I play volleyball
 - 🎸 and the guitar
@@ -15,5 +15,5 @@
 - 👏 clapping with one hand
 - ⌨️ Programming
 - 🤡 being funny sometimes (My mom said I was)
-- ⚽ Looking like Erling Håland 🤖
+- ⚽ Apparently looking like Erling Håland 🤖
 - 🚜 Professional Farming Sim Player
