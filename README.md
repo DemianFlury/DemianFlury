@@ -21,7 +21,7 @@
 #My work
 ## These are some of my favourite projects
 
-- 👑 [improve.you]() Platform for uploading and using courses to better one's life (they said improve.yourself is too long...)
-- 🎮 [Ups n' Downs](https://github.com/DemianFlury/UpsAndDowns) A flappy bird clone made in Unity
-- 🎟 [ConcertTicketApplication](https://github.com/DemianFlury/Concert-ticket-application)A web ap for managing concert tickets, written in plain PHP
-- 🃏 [Star Wars Quartett](https://github.com/CoderMZ/IPT-3.0) A console based super trumps game featuring star wars characters. Made with C++ using structures and linked lists.
+- 👑 [improve.you](https://github.com/improveU/improveyou-website) Platform for uploading and using courses to better one's life. Made with the PHP Framework Laravel (they said improve.yourself is too long...)
+- 🎮 [Ups n' Downs](https://github.com/DemianFlury/UpsAndDowns) Flappy Bird clone made in Unity
+- 🎟 [ConcertTicketApplication](https://github.com/DemianFlury/Concert-ticket-application) Web app for managing concert tickets, written in plain PHP
+- 🃏 [Star Wars Quartett](https://github.com/CoderMZ/IPT-3.0) Console based super trumps game featuring star wars characters. Made with C++ using structures and linked lists.
