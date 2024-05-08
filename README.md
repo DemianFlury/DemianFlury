@@ -15,5 +15,13 @@
 - 👏 clapping with one hand
 - ⌨️ Programming
 - 🤡 being funny sometimes (My mom said I was)
-- ⚽ Apparently looking like Erling Håland 🤖
 - 🚜 Professional Farming Sim Player
+
+
+#My work
+## These are some of my favourite projects
+
+- 👑 [improve.you]() Platform for uploading and using courses to better one's life (they said improve.yourself is too long...)
+- 🎮 [Ups n' Downs]() A flappy bird clone made in Unity
+- 🎟 [ConcertTicketApplication]()A web ap for managing concert tickets, written in plain PHP
+- 🃏 [Star Wars Quartett]() A console based super trumps game featuring star wars characters. Made with C++ using structures and linked lists.
