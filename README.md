@@ -19,7 +19,7 @@
 
 
 # My work
-## These are some of my favourite projects
+### These are some of my favourite projects
 
 - 👑 [improve.you](https://github.com/improveU/improveyou-website) Platform for uploading and using courses to better one's life. Made with the PHP Framework Laravel (they said improve.yourself is too long...)
 - 🎮 [Ups n' Downs](https://github.com/DemianFlury/UpsAndDowns) Flappy Bird clone made in Unity
