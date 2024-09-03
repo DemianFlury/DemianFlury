@@ -4,24 +4,38 @@
 
 # My name is Demian
 
-- 🔭 I’m currently working at [ramatech systems AG](https://ramatech.ch/index.php/en/)
-- 📫 How to reach me: demianflury@gmail.com
+- 🔭 I’m currently available for work
+- 📫 Reach out to me: demianflury@proton.me
 - 🏐 I play volleyball
-- 🎸 and the guitar
-- ⚡ Fun fact: I'm a straight white male, said to be the lowest of life forms
+- 🎸 and the guitar!
+- ⚡ Fun fact: I like nature, despite the many bugs.
   
 # My Skills include
 
 - 👏 clapping with one hand
-- ⌨️ Programming
-- 🤡 being funny sometimes (My mom said I was)
-- 🚜 Professional Farming Sim Player
+- ⌨️ Programming (C#, C++, C and PHP are my favourites)
+- 🤡 According to my mom: being funny sometimes
+- 🚜 Virtual farming perfectionist[.](https://www.farming-simulator.com/)
 
 
 # My work
 ### These are some of my favourite projects
 
 - 👑 [improve.you](https://github.com/improveU/improveyou-website) Platform for uploading and using courses to better one's life. Made with the PHP Framework Laravel (they said improve.yourself is too long...)
+- 🛸 [SpaceShooter](https://github.com/DemianFlury/SpaceShooter) My first game in Godot, intended to learn using the engine and gdscript
 - 🎮 [Ups n' Downs](https://github.com/DemianFlury/UpsAndDowns) Flappy Bird clone made in Unity
 - 🎟 [ConcertTicketApplication](https://github.com/DemianFlury/Concert-ticket-application) Web app for managing concert tickets, written in plain PHP
-- 🃏 [Star Wars Quartett](https://github.com/CoderMZ/IPT-3.0) Console based super trumps game featuring star wars characters. Made with C++ using structures and linked lists.
+- 🃏 [Star Wars Quartett](https://github.com/CoderMZ/IPT-3.0) Console-based super trumps game featuring star wars characters. Made with C++ using structures and linked lists.
+
+# I'm excited for
+
+- Start of my next volleyball season
+- My next D&D session (scheduling is pain😭)
+- Patch 7 of [Baldurs Gate 3](https://baldursgate3.game/)
+- Release of [Farming Simulator 25](https://www.farming-simulator.com/)
+- Release of [Kingdom Come: Deliverance II](https://www.kingdomcomerpg.com/)
+- Any Update for [Vault Hunters](https://vaulthunters.gg/)
+- people realising that AI should not be used for art, leave the creativity to the humans
+- people realising climate change is a serious threat to our fucking existence
+
+whoa that took a turn
