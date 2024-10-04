@@ -31,11 +31,9 @@
 
 - Start of my next volleyball season
 - My next D&D session (scheduling is pain😭)
-- Patch 7 of [Baldurs Gate 3](https://baldursgate3.game/)
 - Release of [Farming Simulator 25](https://www.farming-simulator.com/)
 - Release of [Kingdom Come: Deliverance II](https://www.kingdomcomerpg.com/)
 - Any Update for [Vault Hunters](https://vaulthunters.gg/)
 - people realising that AI should not be used for art, leave the creativity to the humans
-- people realising climate change is a serious threat to our fucking existence
 
 whoa that took a turn
