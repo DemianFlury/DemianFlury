@@ -8,7 +8,7 @@
 - 📫 Reach out to me: demianflury@proton.me
 - 🏐 I play volleyball
 - 🎸 and the guitar!
-- ⚡ Fun fact: I like nature, despite the many bugs.
+- ⚡ Fun fact: I like nature, despite the many bugs (see what I did there)
   
 # My Skills include
 
@@ -29,11 +29,9 @@
 
 # I'm excited for
 
-- Start of my next volleyball season
+- The next opportunity I get to play volleyball
 - My next D&D session (scheduling is pain😭)
-- Release of [Farming Simulator 25](https://www.farming-simulator.com/)
-- Release of [Kingdom Come: Deliverance II](https://www.kingdomcomerpg.com/)
-- Any Update for [Vault Hunters](https://vaulthunters.gg/)
-- people realising that AI should not be used for art, leave the creativity to the humans
+- Discovering the most random chill video games to sink multiple hundreds of hours into, then getting burnt out and repeating with the next game
+- people realising that AI should not be used for art, leave the creativity to humans
 
 whoa that took a turn
